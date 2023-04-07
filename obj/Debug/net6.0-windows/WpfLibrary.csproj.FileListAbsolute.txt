@@ -1,0 +1,12 @@
+C:\Visual Studio 2022\WpfLibrary\bin\Debug\net6.0-windows\WpfLibrary.deps.json
+C:\Visual Studio 2022\WpfLibrary\bin\Debug\net6.0-windows\WpfLibrary.dll
+C:\Visual Studio 2022\WpfLibrary\bin\Debug\net6.0-windows\WpfLibrary.pdb
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\WpfLibrary.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\WpfLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\WpfLibrary.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\WpfLibrary.AssemblyInfo.cs
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\WpfLibrary.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\WpfLibrary.dll
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\refint\WpfLibrary.dll
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\WpfLibrary.pdb
+C:\Visual Studio 2022\WpfLibrary\obj\Debug\net6.0-windows\ref\WpfLibrary.dll

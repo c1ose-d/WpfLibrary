@@ -1,0 +1,3 @@
+C:\Visual Studio 2022\WpfLibrary\WpfLibrary\WpfLibrary.dll
+C:\Visual Studio 2022\WpfLibrary\WpfLibrary\WpfLibrary.deps.json
+C:\Visual Studio 2022\WpfLibrary\WpfLibrary\WpfLibrary.pdb
